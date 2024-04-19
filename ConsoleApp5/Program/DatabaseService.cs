@@ -19,7 +19,7 @@ public static class DatabaseService
     /// </summary>
     private static string GetConnectionString()
     {
-        return @"Host=10.30.0.137;Port=5432;Database=gr622_nemol;Username=gr622_nemol;Password=178Maksim2006";
+        return @"Host=10.30.0.137;Port=5432;Database=gr622_nemol;Username=gr622_nemol;Password=Maks2006";
     }
 
     /// <summary>
